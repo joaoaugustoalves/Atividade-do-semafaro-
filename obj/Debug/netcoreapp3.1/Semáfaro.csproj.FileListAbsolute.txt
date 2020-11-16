@@ -1,0 +1,13 @@
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.exe
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.deps.json
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.runtimeconfig.json
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.runtimeconfig.dev.json
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.dll
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\bin\Debug\netcoreapp3.1\Semáfaro.pdb
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.csprojAssemblyReference.cache
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.AssemblyInfoInputs.cache
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.AssemblyInfo.cs
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.csproj.CoreCompileInputs.cache
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.dll
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.pdb
+C:\Users\REI DELAS\Desktop\Backend\Console\Semáfaro\obj\Debug\netcoreapp3.1\Semáfaro.genruntimeconfig.cache
